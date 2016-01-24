@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=imgur-viewer
+Exec=imgur-viewer
+Icon=imgur-viewer.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+

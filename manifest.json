@@ -1,0 +1,15 @@
+{
+    "name": "imgur-viewer.vayan",
+    "description": "Description of imgur-viewer",
+    "title": "imgur-viewer",
+    "architecture": "all",
+    "hooks": {
+        "imgur-viewer": {
+            "apparmor": "imgur-viewer.apparmor",
+            "desktop":  "imgur-viewer.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "Yann <yann@vaillant.im>",
+    "framework" : "ubuntu-sdk-15.04"
+}
